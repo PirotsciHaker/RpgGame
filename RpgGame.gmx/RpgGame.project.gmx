@@ -225,6 +225,22 @@
     <background>background\bck_Disturbed</background>
     <background>background\bck_Sword</background>
     <background>background\bck_War2</background>
+    <background>background\background2</background>
+    <background>background\background8</background>
+    <background>background\background9</background>
+    <background>background\background14</background>
+    <background>background\background17</background>
+    <background>background\background18</background>
+    <background>background\background24</background>
+    <background>background\background36</background>
+    <background>background\background46</background>
+    <background>background\background47</background>
+    <background>background\background49</background>
+    <background>background\background50</background>
+    <background>background\background51</background>
+    <background>background\background52</background>
+    <background>background\background53</background>
+    <background>background\background54</background>
   </backgrounds>
   <paths name="paths"/>
   <scripts name="scripts">
@@ -306,6 +322,8 @@
     <object>objects\obj_Cale2</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\rm_StoryIntro</room>
+    <room>rooms\Main_village_new</room>
     <room>rooms\Main_village</room>
     <room>rooms\Armor_shop</room>
     <room>rooms\Armory</room>
@@ -316,7 +334,16 @@
     <room>rooms\Protagonist_house_rooms</room>
     <room>rooms\Storage</room>
     <room>rooms\Wolf_forest</room>
-    <room>rooms\rm_StoryIntro</room>
+    <room>rooms\David_mansion</room>
+    <room>rooms\Farm</room>
+    <room>rooms\Ilagorn</room>
+    <room>rooms\Inn_new</room>
+    <room>rooms\John_house</room>
+    <room>rooms\Noldor</room>
+    <room>rooms\room1</room>
+    <room>rooms\room2</room>
+    <room>rooms\room16</room>
+    <room>rooms\Witch_house</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

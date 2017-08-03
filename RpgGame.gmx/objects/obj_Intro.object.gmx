@@ -75,12 +75,12 @@ else {background_visible[3]=false;
       background_visible[4]=true;
        obj_Text.a+=e;
        e="";}
-if(e="" &amp;&amp; obj_Text.a="") if(keyboard_check_pressed(vk_enter)) {room_goto(Main_village);
+if(e="" &amp;&amp; obj_Text.a="") if(keyboard_check_pressed(vk_enter)) {room_goto(Main_village_new);
                                                                 obj_Text.skip=false;}
        
 if (obj_Text.skip=true){background_visible[3]=false;
                         background_visible[4]=true;
-                        if(keyboard_check_pressed(vk_enter)) {room_goto(Main_village);
+                        if(keyboard_check_pressed(vk_enter)) {room_goto(Main_village_new);
                                                               obj_Text.skip=false;}}
 </string>
           </argument>
